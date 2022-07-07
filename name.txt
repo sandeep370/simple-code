@@ -1,0 +1,3 @@
+year=$1
+country=$2
+echo"He got a world cup in $year,when he is playing for $country"
